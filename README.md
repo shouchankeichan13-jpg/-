@@ -61,7 +61,7 @@
 　<a href="https://example.com">
 <button>コレクション</button>
 </a>
-<!DOCTYPE html>
+ここ
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
